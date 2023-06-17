@@ -1,16 +1,5 @@
 {
     "users": {
-        "1": {
-            "first_name": "Burevist",
-            "last_name": "Shtanko",
-            "age": 38,
-            "gender": "male",
-            "email": "burevist.shtanko@example.com",
-            "city": "Molochansk",
-            "country": "Ukraine",
-            "phone": "(097) K81-5405",
-            "nat": "UA"
-        },
         "2": {
             "first_name": "Victor",
             "last_name": "Bouchard",
